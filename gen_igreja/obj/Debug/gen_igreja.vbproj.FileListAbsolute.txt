@@ -1,0 +1,1334 @@
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.vbproj.SuggestedBindingRedirects.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\bin\Debug\gen_igreja.exe.config
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\bin\Debug\gen_igreja.exe
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\bin\Debug\gen_igreja.pdb
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\bin\Debug\gen_igreja.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.exe
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.pdb
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\K4os.Compression.LZ4.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\K4os.Hash.xxHash.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.IO.Pipelines.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Numerics.Vectors.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_BACKUP_LOCAL\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\gen_igreja.exe.config
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\gen_igreja.exe
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\gen_igreja.pdb
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\gen_igreja.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\BouncyCastle.Cryptography.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\Google.Protobuf.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\K4os.Compression.LZ4.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\K4os.Hash.xxHash.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Buffers.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.IO.Pipelines.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Memory.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Numerics.Vectors.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\ZstdSharp.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\Google.Protobuf.pdb
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\Google.Protobuf.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Buffers.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Memory.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.vbproj.SuggestedBindingRedirects.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\Interop.ADODB.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.vbproj.CopyComplete
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.exe
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2_teste\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\06-05\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\06-05\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\06-05\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\06-05\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\06-05\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\06-05\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\K4os.Compression.LZ4.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\K4os.Hash.xxHash.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.IO.Pipelines.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Numerics.Vectors.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.1_gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.frm_novo_membro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\K4os.Compression.LZ4.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\K4os.Hash.xxHash.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.IO.Pipelines.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Numerics.Vectors.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_membro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Configuration.ConfigurationManager.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_membro.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\V0.3_gen_igreja (1)\V0.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_membro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\OneDrive\Documentos\Trabalho e Estudo\FATEC\Segundo Semestre\Sistemas de Informação\Segundo Bimestre\Projeto Igreja\GerenciadorIgreja\11-05\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+C:\Users\Samsung\OneDrive\Documentos\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_ofertas.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+C:\Users\Samsung\OneDrive\Documentos\Projeto Git\V0.7_gen_igreja\V0.7_gen_igreja\V0.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V1.1_gen_igreja\V1.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V1.3_gen_igreja\V1.3_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+D:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\Downloads\V1.5_gen_igreja\V1.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.5_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V1.6_gen_igreja\V1.6_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.7_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.8_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V1.9_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.0_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V2.1_gen_igreja (1)\V2.1_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_add_categoria.resources
+C:\Users\Samsung\Downloads\V2.3_gen_igreja\V2.2_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_apresentacao.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_add_categoria.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_apresentacao.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\V2.4_gen_igreja\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.vbproj.AssemblyReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\Interop.ADODB.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.vbproj.ResolveComReference.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_add_categoria.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_apresentacao.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_balanco_financeiro.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_usuarios.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_listar_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_login.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_menu.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_gerenciamento_membros.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_novo_usuario.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_financas.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.frm_pendencias.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.Resources.resources
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.vbproj.GenerateResource.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.vbproj.CoreCompileInputs.cache
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\gen_igreja.exe.config
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\gen_igreja.exe
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\gen_igreja.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\gen_igreja.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\Google.Protobuf.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\System.Buffers.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\System.Memory.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\ZstdSharp.dll
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\BouncyCastle.Cryptography.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\Google.Protobuf.pdb
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\Google.Protobuf.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\K4os.Compression.LZ4.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\K4os.Compression.LZ4.Streams.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\K4os.Hash.xxHash.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\System.Buffers.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\System.IO.Pipelines.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\System.Memory.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\System.Numerics.Vectors.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Arquivos\FATEC\2° Semestre\Sistemas de Informação\N2\ENTREGAR\gen_igreja\obj\Debug\gen_igreja.vbproj.Up2Date

@@ -1,0 +1,90 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95F052BB-6445-447B-8149-3A7D4B18C529}|gen_igreja.vbproj|E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\mod_pendencias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95F052BB-6445-447B-8149-3A7D4B18C529}|gen_igreja.vbproj|solutionrelative:mod_pendencias.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F052BB-6445-447B-8149-3A7D4B18C529}|gen_igreja.vbproj|E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\mod_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95F052BB-6445-447B-8149-3A7D4B18C529}|gen_igreja.vbproj|solutionrelative:mod_form.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F052BB-6445-447B-8149-3A7D4B18C529}|gen_igreja.vbproj|E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\mod_database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{95F052BB-6445-447B-8149-3A7D4B18C529}|gen_igreja.vbproj|solutionrelative:mod_database.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|gen_igreja||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95F052BB-6445-447B-8149-3A7D4B18C529}|gen_igreja.vbproj|e:\\arquivos\\fatec\\2\u00B0 semestre\\sistemas de informa\u00E7\u00E3o\\n2\\entregar\\gen_igreja\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|8998e48e-b89a-4034-b66e-353d8c1fdc2e"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "gen_igreja",
+              "DocumentMoniker": "E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\gen_igreja.vbproj",
+              "RelativeDocumentMoniker": "gen_igreja.vbproj",
+              "ToolTip": "E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\gen_igreja.vbproj",
+              "RelativeToolTip": "gen_igreja.vbproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-05-09T21:34:03.46Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "mod_database.vb",
+              "DocumentMoniker": "E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\mod_database.vb",
+              "RelativeDocumentMoniker": "mod_database.vb",
+              "ToolTip": "E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\mod_database.vb",
+              "RelativeToolTip": "mod_database.vb",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAiwBEAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-10T00:15:37.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "mod_form.vb",
+              "DocumentMoniker": "E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\mod_form.vb",
+              "RelativeDocumentMoniker": "mod_form.vb",
+              "ToolTip": "E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\mod_form.vb",
+              "RelativeToolTip": "mod_form.vb",
+              "ViewState": "AQIAALQBAAAAAAAAAAAiwLkBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-09T23:58:23.865Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "mod_pendencias.vb",
+              "DocumentMoniker": "E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\mod_pendencias.vb",
+              "RelativeDocumentMoniker": "mod_pendencias.vb",
+              "ToolTip": "E:\\Arquivos\\FATEC\\2\u00B0 Semestre\\Sistemas de Informa\u00E7\u00E3o\\N2\\ENTREGAR\\gen_igreja\\mod_pendencias.vb",
+              "RelativeToolTip": "mod_pendencias.vb",
+              "ViewState": "AQIAAOQAAAAAAAAAAAAkwEQAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-06-10T01:40:47.875Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
