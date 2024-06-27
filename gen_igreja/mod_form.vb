@@ -158,7 +158,7 @@ Module mod_form
         With frm_novo_usuario
             .txt_senha.PasswordChar = "*"
             .txt_confirmar_senha.PasswordChar = "*"
-
+            .chk_mostrar_senha.Enabled = False
             .txt_usuario.Text = ""
             .txt_senha.Text = ""
             .txt_confirmar_senha.Text = ""
