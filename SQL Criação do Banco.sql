@@ -139,7 +139,7 @@ CREATE TABLE pendencias(
 -- População do Banco com Dados fixos
 -- Inserções Tabela "status_pendencias"
 INSERT INTO status_pendencias VALUES ('RE', 'RESOLVIDO'),
-                                     ('PE', 'PEDENTE'),
+                                     ('PE', 'PENDENTE'),
                                      ('FE', 'FECHADO');
                                      
 -- Inserções Tabela "status_usuarios"
