@@ -10,7 +10,7 @@
         Try
             db = CreateObject("ADODB.Connection")
 
-            db.Open("Provider=SQLOLEDB;Data Source=SUA_FONTE_AQUI;Initial Catalog=gerenciador_igreja;trusted_connection=yes;")
+            db.Open("Provider=SQLOLEDB;Data Source=DESKTOP-LDT0NPQ;Initial Catalog=gerenciador_igreja;trusted_connection=yes;")
         Catch ex As Exception
             MsgBox("Erro: " & ex.Message)
         End Try

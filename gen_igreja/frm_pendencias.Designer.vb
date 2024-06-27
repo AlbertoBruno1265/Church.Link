@@ -68,17 +68,18 @@ Partial Class frm_pendencias
         Me.txt_titulo_pendencia.Location = New System.Drawing.Point(126, 90)
         Me.txt_titulo_pendencia.Name = "txt_titulo_pendencia"
         Me.txt_titulo_pendencia.Size = New System.Drawing.Size(365, 22)
-        Me.txt_titulo_pendencia.TabIndex = 4
+        Me.txt_titulo_pendencia.TabIndex = 3
         '
         'cmb_urgencia
         '
         Me.cmb_urgencia.DropDownStyle = System.Windows.Forms.ComboBoxStyle.DropDownList
         Me.cmb_urgencia.Font = New System.Drawing.Font("Ebrima", 8.25!, System.Drawing.FontStyle.Bold)
         Me.cmb_urgencia.FormattingEnabled = True
+        Me.cmb_urgencia.ItemHeight = 13
         Me.cmb_urgencia.Location = New System.Drawing.Point(126, 130)
         Me.cmb_urgencia.Name = "cmb_urgencia"
         Me.cmb_urgencia.Size = New System.Drawing.Size(172, 21)
-        Me.cmb_urgencia.TabIndex = 7
+        Me.cmb_urgencia.TabIndex = 4
         '
         'Label3
         '
@@ -104,10 +105,10 @@ Partial Class frm_pendencias
         '
         Me.rd_baixo.AutoSize = True
         Me.rd_baixo.Font = New System.Drawing.Font("Ebrima", 9.75!, System.Drawing.FontStyle.Bold)
-        Me.rd_baixo.Location = New System.Drawing.Point(272, 48)
+        Me.rd_baixo.Location = New System.Drawing.Point(295, 48)
         Me.rd_baixo.Name = "rd_baixo"
         Me.rd_baixo.Size = New System.Drawing.Size(87, 21)
-        Me.rd_baixo.TabIndex = 12
+        Me.rd_baixo.TabIndex = 2
         Me.rd_baixo.TabStop = True
         Me.rd_baixo.Text = "Secretário"
         Me.rd_baixo.UseVisualStyleBackColor = True
@@ -116,10 +117,10 @@ Partial Class frm_pendencias
         '
         Me.rd_cima.AutoSize = True
         Me.rd_cima.Font = New System.Drawing.Font("Ebrima", 9.75!, System.Drawing.FontStyle.Bold)
-        Me.rd_cima.Location = New System.Drawing.Point(201, 48)
+        Me.rd_cima.Location = New System.Drawing.Point(186, 48)
         Me.rd_cima.Name = "rd_cima"
         Me.rd_cima.Size = New System.Drawing.Size(65, 21)
-        Me.rd_cima.TabIndex = 11
+        Me.rd_cima.TabIndex = 1
         Me.rd_cima.TabStop = True
         Me.rd_cima.Text = "Pastor"
         Me.rd_cima.UseVisualStyleBackColor = True
@@ -310,7 +311,7 @@ Partial Class frm_pendencias
         Me.btn_gravar_pendencia.Margin = New System.Windows.Forms.Padding(2)
         Me.btn_gravar_pendencia.Name = "btn_gravar_pendencia"
         Me.btn_gravar_pendencia.Size = New System.Drawing.Size(116, 68)
-        Me.btn_gravar_pendencia.TabIndex = 25
+        Me.btn_gravar_pendencia.TabIndex = 7
         Me.btn_gravar_pendencia.Text = "CADASTRAR PENDÊNCIA"
         Me.btn_gravar_pendencia.UseVisualStyleBackColor = False
         '
@@ -323,7 +324,7 @@ Partial Class frm_pendencias
         Me.btn_editar_pendencia.Margin = New System.Windows.Forms.Padding(2)
         Me.btn_editar_pendencia.Name = "btn_editar_pendencia"
         Me.btn_editar_pendencia.Size = New System.Drawing.Size(119, 68)
-        Me.btn_editar_pendencia.TabIndex = 26
+        Me.btn_editar_pendencia.TabIndex = 8
         Me.btn_editar_pendencia.Text = "EDITAR PENDÊNCIA"
         Me.btn_editar_pendencia.UseVisualStyleBackColor = False
         '
@@ -336,7 +337,7 @@ Partial Class frm_pendencias
         Me.btn_excluir_pendencia.Margin = New System.Windows.Forms.Padding(2)
         Me.btn_excluir_pendencia.Name = "btn_excluir_pendencia"
         Me.btn_excluir_pendencia.Size = New System.Drawing.Size(122, 68)
-        Me.btn_excluir_pendencia.TabIndex = 27
+        Me.btn_excluir_pendencia.TabIndex = 9
         Me.btn_excluir_pendencia.Text = "EXCLUIR PENDÊNCIA"
         Me.btn_excluir_pendencia.UseVisualStyleBackColor = False
         '
@@ -349,7 +350,7 @@ Partial Class frm_pendencias
         Me.btn_cancelar.Margin = New System.Windows.Forms.Padding(2)
         Me.btn_cancelar.Name = "btn_cancelar"
         Me.btn_cancelar.Size = New System.Drawing.Size(119, 68)
-        Me.btn_cancelar.TabIndex = 28
+        Me.btn_cancelar.TabIndex = 10
         Me.btn_cancelar.Text = "CANCELAR"
         Me.btn_cancelar.UseVisualStyleBackColor = False
         '

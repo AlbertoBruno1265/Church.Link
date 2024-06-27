@@ -9,13 +9,13 @@ Module mod_form
     Public setor_usuario As String
     Public status_usuario As String
     Public setor_destino As String
-    'Public setor_origem As String
+    Public setor_origem As String
     Public categoria As String
 
     Public caminho_foto_membro_origem As String
     Public caminho_foto_membro_destino As String
 
-    Public status_pendencia As String
+    'Public status_pendencia As New DataGridViewTextBoxColumn
 
     Public is_novo_membro As Boolean
     Public is_visualizacao As Boolean
@@ -242,11 +242,13 @@ Module mod_form
 
 
         With frm_gerenciamento_membros
-
-            data_nascimento = .txt_data_nascimento.Text
-            idade = Math.Floor(CInt(DateDiff(DateInterval.Month, data_nascimento, Date.Today)) / 12)
-            .txt_idade.Text = idade
-
+            Try
+                data_nascimento = .txt_data_nascimento.Text
+                idade = Math.Floor(CInt(DateDiff(DateInterval.Month, data_nascimento, Date.Today)) / 12)
+                .txt_idade.Text = idade
+            Catch ex As Exception
+                MsgBox("Não foi possível calcular a idade automaticamente!", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "ERRO")
+            End Try
         End With
     End Sub
 
@@ -550,24 +552,12 @@ Module mod_form
     Sub inicializar_frm_pendencias()
         conectar_banco()
 
-        ' POR FAOVR, NÃO ESQUEÇA DE APAGAR ESSA ATROCIDADE EM FORMA DE CÓDIGO
-        '=======================================================================================
-        'nome_usuario = "TesouTeste"
-        'setor_usuario = "TE"
-        '=======================================================================================
-        ' POR FAOVR, NÃO ESQUEÇA DE APAGAR ESSA ATROCIDADE EM FORMA DE CÓDIGO
 
         With frm_pendencias
             preencher_cmb("descricao", "urgencias", .cmb_urgencia)
             preencher_cmb("nome", "membros", .cmb_nome)
             alterar_visualizacao_pendencias()
 
-            'If .lbl_resolvido.Text = "FECHADO" Then
-            '    .btn_gravar_pendencia.Enabled = False
-            '    .btn_editar_pendencia.Enabled = False
-            '    .btn_excluir_pendencia.Enabled = False
-            '    MsgBox("false?")
-            'End If
 
         End With
 
@@ -584,7 +574,8 @@ Module mod_form
 
                 .btn_gravar_pendencia.Text = "RESOLVER PENDÊNCIA"
 
-                If is_criador Then
+                If is_criador And frm_menu.dgv_pendencias.CurrentRow.Cells(3).Value = "PENDENTE" Then
+
                     .btn_gravar_pendencia.Enabled = False
                     .btn_editar_pendencia.Enabled = True
                     .btn_excluir_pendencia.Enabled = True
@@ -598,6 +589,9 @@ Module mod_form
                     .lbl_setor.Visible = True
                     .rd_cima.Visible = True
                     .rd_baixo.Visible = True
+
+                    .rd_cima.Enabled = True
+                    .rd_baixo.Enabled = True
 
                     .lbl_criador.Visible = False
                     .txt_criador.Visible = False
@@ -627,9 +621,26 @@ Module mod_form
                     .cmb_urgencia.Enabled = False
                     .txt_descricao_pendencia.Enabled = False
 
-                    .lbl_setor.Visible = False
-                    .rd_cima.Visible = False
-                    .rd_baixo.Visible = False
+                    If is_criador Then
+                        .lbl_setor.Visible = True
+                        .rd_cima.Visible = True
+                        .rd_baixo.Visible = True
+
+                        .rd_cima.Enabled = False
+                        .rd_baixo.Enabled = False
+
+                        If setor_destino = get_id_geral(.rd_cima.Text) Then
+                            .rd_cima.Checked = True
+                        Else
+                            .rd_baixo.Checked = True
+                    End If
+
+                    Else
+                        .lbl_setor.Visible = False
+                        .rd_cima.Visible = False
+                        .rd_baixo.Visible = False
+
+                    End If
 
                     .lbl_criador.Visible = True
                     .txt_criador.Visible = True
@@ -645,14 +656,14 @@ Module mod_form
                 .btn_excluir_pendencia.Enabled = False
                 .btn_gravar_pendencia.Text = "CADASTRAR PENDÊNCIA"
                 .btn_gravar_pendencia.Enabled = True
-                '.cmb_nome.Enabled = True
-                '.txt_titulo_pendencia.Enabled = True
-                '.cmb_urgencia.Enabled = True
-                '.txt_descricao_pendencia.Enabled = True
+
 
                 .lbl_setor.Visible = True
                 .rd_cima.Visible = True
                 .rd_baixo.Visible = True
+
+                .rd_cima.Enabled = True
+                .rd_baixo.Enabled = True
 
                 .lbl_criador.Visible = False
                 .txt_criador.Visible = False

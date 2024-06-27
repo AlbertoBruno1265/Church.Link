@@ -3,8 +3,6 @@ DROP DATABASE IF EXISTS gerenciador_igreja;
 CREATE DATABASE gerenciador_igreja;
 USE gerenciador_igreja;
 
----USE master
-
 -- Criação das Tabelas
 DROP TABLE if exists status_pendencias;
 CREATE TABLE status_pendencias(

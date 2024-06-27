@@ -49,8 +49,8 @@ Module mod_secretario
             MsgBox("Membro cadastrado com sucesso!", MsgBoxStyle.Information + MsgBoxStyle.OkOnly, "SUCESSO!")
             zerar_frm_novo_membro()
         Catch pk As System.Runtime.InteropServices.COMException
-            'MsgBox("ERRO!" & vbNewLine & vbNewLine &
-            '"Este ID de Membro já foi cadastrado!", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "ERRO")
+            MsgBox("ERRO!" & vbNewLine & vbNewLine &
+            "Este ID de Membro já foi cadastrado!", MsgBoxStyle.Critical + MsgBoxStyle.OkOnly, "ERRO")
             'MsgBox(pk)
 
             With frm_gerenciamento_membros

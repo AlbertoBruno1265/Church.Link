@@ -38,9 +38,9 @@ Public Class frm_listar_membros
 
                         If resposta = vbYes Then
 
-                            sql = "SELECT caminho_foto FROM membros WHERE id_membro='" & .CurrentRow.Cells(1).Value & "'"
+                            sql = "SELECT COALESCE(caminho_foto, '') FROM membros WHERE id_membro='" & .CurrentRow.Cells(1).Value & "'"
                             rs = db.Execute(UCase(sql))
-
+                            'MsgBox()
                             caminho_foto_membro_destino = rs.Fields(0).Value
 
                             If caminho_foto_membro_destino <> ".\Icones\nova_foto.png" Then
@@ -59,7 +59,7 @@ Public Class frm_listar_membros
                 End If
             End With
         Catch ex As Exception
-
+            MsgBox(ex.Message)
         End Try
 
 
