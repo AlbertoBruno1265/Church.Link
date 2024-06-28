@@ -1,7 +1,7 @@
 # Church.Link
 
 ## Resumo
-Um software para auxiliar na admnistração de igrejas evangélicas, visando:
+Um software para auxiliar na administração de igrejas evangélicas, visando:
 - Centralização de informações
 - Velocidade na comunicação 
 - Transparência dos processos
