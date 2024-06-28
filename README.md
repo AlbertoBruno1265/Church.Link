@@ -13,9 +13,9 @@ Um software para auxiliar na administração de igrejas evangélicas, visando:
 
 ## Projeto desenvolvido por
 
-[Alberto Bruno Silvestre de Oliveira](https://www.linkedin.com/in/alberto-bruno-s-olivieira/)([GitHub](https://github.com/AlbertoBruno1265))
+[Alberto Bruno Silvestre de Oliveira](https://www.linkedin.com/in/alberto-bruno-s-olivieira/) ([GitHub](https://github.com/AlbertoBruno1265))
 
-[Fabio da Silva Britto](https://www.linkedin.com/in/fabio-britto-399223252/)([GitHub](https://github.com/FabioBritto))
+[Fabio da Silva Britto](https://www.linkedin.com/in/fabio-britto-399223252/) ([GitHub](https://github.com/FabioBritto))
 
 Trabalho realizado como parte da ferramenta de avaliação da matéria de "Sistemas de Informação" na [FATEC Antonio Russo - São Caetano do Sul](https://www.fatecsaocaetano.edu.br/).
 
