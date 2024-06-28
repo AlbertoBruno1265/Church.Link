@@ -1,7 +1,6 @@
 ﻿Module mod_database
     'Objetos do Banco de Dados
     Public db As New ADODB.Connection 'Variável global do banco
-    Public db_cep As New ADODB.Connection
     Public rs As New ADODB.Recordset 'Variável da tabela do banco
     Public sql As String
 

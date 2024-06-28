@@ -147,10 +147,6 @@ Module mod_form
     'End With
     'End Sub
 
-    Sub verificar_campo(campo As Object)
-
-    End Sub
-
     '====frm_novo_usuario====
     Sub inicializar_frm_novo_usuario()
         conectar_banco()
