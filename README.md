@@ -20,5 +20,3 @@ Um software para auxiliar na administração de igrejas evangélicas, visando:
 Trabalho realizado como parte da ferramenta de avaliação da matéria de "Sistemas de Informação" na [FATEC Antonio Russo - São Caetano do Sul](https://www.fatecsaocaetano.edu.br/).
 
 Proposto e orientado pelo professor [Humberto Luiz de Toledo](http://lattes.cnpq.br/1411614386068364)
-
-## Vídeo de demonstração
